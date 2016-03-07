@@ -30,7 +30,7 @@ My shiny app can be found here:
 https://lingsin5234.shinyapps.io/ShinyAppProject/
 
 The source code is available at my github repo:
-https://github.com/lingsin5234/
+https://github.com/lingsin5234/ShinyAppProject/
 
 Functionality
 ========================================================
