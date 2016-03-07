@@ -36,7 +36,7 @@ Functionality
 ========================================================
 After the player and minimum 3-pt range are chosen,
 the app will automatically update the results in the
-main panel. The plot shown is a result of filtering
+main panel. The result is a plot shown from filtering
 the player and range from the 3-pt shooting data.
 
 
